@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
+![](https://github.com/ram4ik/news_app_flutter/blob/master/Screenshot%202021-03-01%20at%2011.09.01.png)
+![](https://github.com/ram4ik/news_app_flutter/blob/master/Screenshot%202021-03-01%20at%2011.09.17.png)
+
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
